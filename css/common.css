@@ -191,3 +191,8 @@ text-align: center;S
 .last_section a:hover{
 	color: yellow;
 }
+
+
+.font {
+	font-family: serif;
+}
